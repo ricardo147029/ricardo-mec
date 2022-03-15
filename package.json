@@ -1,0 +1,23 @@
+{
+  "name": "ricardo-mec",
+  "version": "1.0.1",
+  "description": " Whenever I start a new project, I don't know what to write for the first commit.",
+  "main": "src/index.js ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "npm"
+  ],
+  "author": "Ricardo Joaquin Ruiz Tavera <ricardojrt1470@hotmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-messages": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "node": "^17.7.1"
+  }
+}
